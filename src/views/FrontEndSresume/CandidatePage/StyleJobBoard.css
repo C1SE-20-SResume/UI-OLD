@@ -1,0 +1,87 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.list-job{
+ 
+    display:flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+
+}
+.card-job{
+    display:flex;
+    width: 400px;
+    height:175px;
+    background-color: white(19, 14, 14, 0.849);
+    align-items:center;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-bottom: 30px;
+    border-right:5px solid #00bf7f;
+ 
+
+
+}
+.col-span-1{
+    text-decoration: none;
+   
+}
+
+.card-job .logo-company{
+    width:140px;
+    height: 100%;
+    
+}
+.card-job .job-title{
+margin-left: 10px;
+
+padding:5px;
+}
+.card-job .job-title h4{
+    font-size:18px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    font-weight:700;
+}
+.card-job .job-title h4 {
+    text-decoration: none;
+    color: black;
+}
+
+.card-job .job-title .name-company{
+    margin-bottom: 5px;
+    text-decoration: none;
+    color:black;
+    font-size: 14px;
+}
+.card-job .job-title .benefit li {
+    list-style:none;
+    display: flex;
+    align-items:center;
+    color:black;
+}
+.card-job .job-title .benefit li box-icon{
+    margin-right:5px;
+    font-size:3px;
+  
+   
+}
+.card-job .job-title .benefit li span{
+    font-size:13px;
+    color:black;
+}
+.card-job .job-title .more-div{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+   
+}
+.card-job .job-title .more-div .update-time{
+position: relative;
+top: 8px;
+}
+.card-job .job-title .more-div .update-time span{
+    font-size:13px
+}

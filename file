@@ -1,0 +1,384 @@
+  <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="tag-job-detail">
+                <div class="img-company-logo">
+                  <img src={logoCompany} alt="" />
+                </div>
+                <div class="job-title">
+                  <h4>Front-end Developer (ReactJS/VueJS)</h4>
+                  <ul class="job-benefit">
+                    <li><ion-icon name="cash-outline" /> 1000$</li>
+                    <li><ion-icon name="location-outline" /> Da Nang</li>
+                  </ul>
+                </div>
+              </div>

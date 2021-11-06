@@ -1,0 +1,34 @@
+.baoboc .main-content .Content-dashboard {
+    height:100vh;
+    display:flex;
+    justify-content:space-between;
+   
+}
+.baoboc .main-content .Content-dashboard .col1{
+    background-color:white;
+
+    
+}
+
+
+
+
+
+  
+.baoboc .main-content .Content-dashboard .col2{
+  
+    
+
+    background-color:white;
+
+}
+.baoboc .main-content .Content-dashboard .col1 .table-applied-CV .styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px
+  
+    
+  
+}

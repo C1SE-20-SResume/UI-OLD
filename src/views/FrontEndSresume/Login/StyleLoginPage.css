@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: "Poppins",sans-serif;
+}
+.navigation{
+    width: 100%;
+    height:100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding:20px;
+    position:fixed;
+    top:0;
+    z-index:10000;
+    justify-content:space-between;
+}
+.navigation .logo{
+    position: relative;
+    top:-10px
+}
+.navigation .menu-item ul .item{
+    color: white;
+    margin-right: 10px;
+    list-style:none;
+}
+.navigation .menu-item ul .item .linking_Login{
+    text-decoration: none;
+    color:black ;
+    display:inline-block;
+    background-color:white;
+    border: 1px solid white;
+    padding: 5px 20px;
+    border-radius: 15px;
+}
+.navigation .menu-item ul .item .linking_register{
+    text-decoration: none;
+    color:white ;
+    display:inline-block;
+    background-color:black;
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+
+.navigation .menu-item ul {
+    display: flex;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding:30px;
+
+}
+.main .col1{
+    flex-basis: 50%;
+    background-color:white;
+    height:100vh;
+    padding: 10px;
+}
+.main .col1 .col1-content{
+    padding: 20px;
+    background-color:white;
+    position: relative;
+    top:50%;
+    transform: translateY(-50%)
+}
+.main .col1 .col1-content div h4{
+    color:#00bf7f;
+    font-size:25px;
+}
+.main .col1 .col1-content div {
+    margin-bottom: 15px;
+}
+.main .col1 .col1-content div h1{
+    color:black;
+    font-size:45px;
+    line-height:1.2;
+}
+.main .col1 .col1-content div button{
+    width:100px;
+    height:40px;
+    border-radius: 15px;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    background-color:black;
+    color: white;
+}
+.main .col2 .picture-big img{
+    width:800px;
+}
+.main .col2 .picture-big{
+    position: relative;
+    top: 10%;
+}

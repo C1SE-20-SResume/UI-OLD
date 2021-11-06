@@ -1,0 +1,11 @@
+.baoboc .main-content .Content-recruiter .job-requirement-form{
+    border: 1px solid #ced4da;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding:  20px;
+  
+    height: auto;
+    border-radius: 15px;
+}
+.baoboc .main-content .Content-recruiter .job-requirement-form  div label ion-icon{
+    color: black;
+}

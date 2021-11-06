@@ -1,0 +1,76 @@
+.baoboc .main-content .Content-recruiter a{
+    width:80;
+    height:30px;
+
+    background-color:#353535;
+
+    color:white;
+    padding:7px;
+    border-radius:100%;
+    position:absolute;
+    cursor:pointer;
+    right:200px;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding:20px;
+    height: 100vh;
+    border-radius:15px;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question div label ion-icon{
+    color:black;
+}
+.baoboc .main-content .Content-recruiter a ion-icon{
+    position:relative;
+    left:3px;
+    top:-1px;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question div{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question div{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question  div select {
+    padding: 10px 20px;
+    border:1px solid black ;
+    outline: none;
+    width: 300px;
+    margin-left: 100px;
+    border-radius: 12px;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question div select option{
+    text-align: left;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question div input{
+    padding: 10px 20px;
+    border:1px solid black ;
+    outline: none;
+    width: 300px;
+    margin-left: 100px;
+    border-radius: 12px;
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question .button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+  
+}
+.baoboc .main-content .Content-recruiter .form-edit-apptitude-question .button button{
+    width:80px;
+    height: 30px;
+    border-radius:15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background:black;
+    color: white;
+}
+
